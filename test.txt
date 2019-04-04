@@ -1,3 +1,5 @@
 This file is used to test git status.
 
 Change it to learn git diff
+
+Add a new line
